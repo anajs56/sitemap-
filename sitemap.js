@@ -18,6 +18,6 @@ border-radius:4px;-moz-border-radius:4px;
 
 <br />
 <div id="toc">
-<script src="/" type="text/javascript"></script>
+<script src="https://cdn.statically.io/gh/anajs56/sitemap-/main/sitemap.js" type="text/javascript"></script>
 <script src="/feeds/posts/default?max-results=9999&amp;alt=json-in-script&amp;callback=loadtoc">
 </script></div>
